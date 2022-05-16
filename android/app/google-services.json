@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1089482341049",
+    "project_id": "meetup-8d802",
+    "storage_bucket": "meetup-8d802.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089482341049:android:534e0c3a1eb271a70b3968",
+        "android_client_info": {
+          "package_name": "com.expointern.meet_up"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1089482341049-qdomrsi61mg0tmsnjuipuart2r87bq84.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.expointern.meet_up",
+            "certificate_hash": "8ca7a8b4785e86f6710d3a3fa0d493976fc539bf"
+          }
+        },
+        {
+          "client_id": "1089482341049-gtt9dfqlnsc0ruh8moi4j5a8nbic1f0e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtErYVHmZSVgwr8km50uaUHD9F7bqoMg0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1089482341049-gtt9dfqlnsc0ruh8moi4j5a8nbic1f0e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
